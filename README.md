@@ -15,15 +15,14 @@ This project predicts monthly death rates in India for 2026 and 2027 using offic
 
 ## 🚀 How to Run
 1. Clone this repository:  
-   `git clone https://github.com/your-username/death-rate-prediction.git`
+   `git clone https://github.com/aayush mishra/death-rate-prediction.git`
 2. Install required libraries:  
    `pip install -r requirements.txt`
 3. Open the Jupyter Notebook:  
    `jupyter notebook death_rate_prediction_2026_2027.ipynb`
 4. Run all cells (Kernel → Restart & Run All)
 
-## 📈 Sample Visualizations
-(You can add screenshots later – optional)
+
 
 ## 👨‍💻 Author
 **Aayush Kumar Mishra**  
